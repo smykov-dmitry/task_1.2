@@ -1,0 +1,12 @@
+table {
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.header {
+    font-weight: bold;
+    text-align: center;
+}
